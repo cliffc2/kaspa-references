@@ -49,8 +49,20 @@ https://github.com/kaspanet/rusty-kaspa/blob/tn12/cli/src/cli.rs
 rpc
 https://github.com/kaspanet/rusty-kaspa/tree/tn12/rpc
 
+rpc tests
+https://github.com/kaspanet/rusty-kaspa/blob/tn12/testing/integration/src/rpc_tests.rs
+
 protocols
 https://github.com/kaspanet/rusty-kaspa/tree/tn12/protocol/p2p
+
+integrating with kaspa
+https://kaspa-mdbook.aspectron.com/rpc.html
+
+reference for atomic swaps with eth  
+https://docs.metamask.io/services/tutorials/ethereum/send-a-transaction/use-rust/
+
+Transactions, Blocks, BlockDAG, Finality and Pruning, Pruning, Timelocks, API, P2P, RPC, Wallet
+https://github.com/kaspanet/docs/tree/main/Reference
 
 workflow rpc
 https://github.com/workflow-rs/workflow-rs/tree/master/rpc
