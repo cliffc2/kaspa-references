@@ -99,3 +99,6 @@ metamask json-rpc
 https://docs.metamask.io/services/reference/ethereum/json-rpc-methods/
 metamask multichain
 https://docs.metamask.io/tutorials/pnp-no-modal-multichain/
+
+vprogs
+https://github.com/kaspanet/vprogs/tree/feat/zk-preparations
