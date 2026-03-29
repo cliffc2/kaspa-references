@@ -90,8 +90,12 @@ Access the i-th output of the spending transaction. You can read its .scriptPubK
 Covenant vs Lock
 A lock checks who can spend. A covenant checks how they spend. Covenants are strictly more powerful.
 
+
+
 wasm (gRPC is not supported by WASM / browsers etc)
 https://github.com/kaspanet/rusty-kaspa/tree/tn12/wasm
 
 metamask json-rpc
 https://docs.metamask.io/services/reference/ethereum/json-rpc-methods/
+metamask multichain
+https://docs.metamask.io/tutorials/pnp-no-modal-multichain/
